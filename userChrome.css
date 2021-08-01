@@ -1236,7 +1236,7 @@ toolbar > toolbaritem > menubar > menu[open] {
     margin-inline-end: 0px !important;
     padding: 0px !important;
 }
-#PersonalToolbar .toolbarbutton-1 > .toolbarbutton-icon {
+#PersonalToolbar .toolbarbutton-1:not(#PlacesChevron) > .toolbarbutton-icon {
     max-height: 16px !important;
     margin: 4px 0px 4px 0px !important;
 }
