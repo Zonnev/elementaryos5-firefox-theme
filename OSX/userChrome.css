@@ -832,10 +832,6 @@ toolbaritem > hbox > hbox > toolbarbutton > menupopup > menu menu[open="true"] {
     height: 39px !important;
     padding: 2px !important;
 }
-.search-one-offs {
-    padding-top: 2px !important;
-    height: 39px !important;
-}
 #urlbar[breakout][breakout-extend][breakout-extend-animate] > #urlbar-input-container > #page-action-buttons > #reader-mode-button {
     width: 22px !important;
     height: 22px !important;
