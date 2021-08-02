@@ -829,7 +829,7 @@ toolbaritem > hbox > hbox > toolbarbutton > menupopup > menu menu[open="true"] {
     top: 2px !important;
 }
 #urlbar[breakout][breakout-extend][breakout-extend-animate] > #urlbar-input-container {
-    height: 39px !important;
+    height: 35px !important;
     padding: 2px !important;
 }
 #urlbar[breakout][breakout-extend][breakout-extend-animate] > #urlbar-input-container > #page-action-buttons > #reader-mode-button {
@@ -870,6 +870,9 @@ toolbaritem > hbox > hbox > toolbarbutton > menupopup > menu menu[open="true"] {
     height: 16px !important;
     padding: 0px !important;
     margin: 0px 6px !important;
+}
+#urlbar .search-one-offs:not([hidden]) {
+    padding-block: 5px !important;
 }
 
 /* toolbar */
