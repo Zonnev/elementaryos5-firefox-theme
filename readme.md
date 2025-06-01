@@ -1,3 +1,5 @@
+**This repository is archived and no longer maintained. You can install the theme for elementary OS 8 [here](https://github.com/Zonnev/elementaryos-firefox-theme).**
+
 # An elementary OS 5 (Hera) theme for Firefox
 ![Screenshot](elementary5-firefox-theme.png)
 
